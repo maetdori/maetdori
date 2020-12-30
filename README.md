@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![maetdori's github stats](https://github-readme-stats.vercel.app/api?username=maetdori)](https://github.com/maetdori/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maetdori&layout=compact)](https://github.com/maetdori/github-readme-stats)
+[![maetdori's github stats](https://github-readme-stats.vercel.app/api?username=maetdori)](https://github.com/maetdori/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maetdori&layout=compact)](https://github.com/maetdori/github-readme-stats)
 
 <!--
 **maetdori/maetdori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
