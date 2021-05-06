@@ -1,8 +1,22 @@
-### Hi there 👋
+## Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaetdor&count_bg=%23FE9D45&title_bg=%23919191&icon=&icon_color=%23A55F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-[![maetdori's github stats](https://github-readme-stats.vercel.app/api?username=maetdori)](https://github.com/maetdori/github-readme-stats)   
+- 📫 How to reach me: odong2@ajou.ac.kr
+- 🧐 My engineering blog: https://maetdori.tistory.com/
+- 😎 My personal blog: https://blog.naver.com/o_dong2
+
+<hr>
+
+### My Github Stats
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=maetdori&theme=react&show_icons=true" height="180px">
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maetdori&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+
+### SOLVED.AC Tier
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=odong2)](https://solved.ac/odong2)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maetdori&layout=compact)](https://github.com/maetdori/github-readme-stats)
 
 <!--
 **maetdori/maetdori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
