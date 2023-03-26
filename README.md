@@ -1,7 +1,6 @@
 ## Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaetdor&count_bg=%23FE9D45&title_bg=%23919191&icon=&icon_color=%23A55F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-- 📫 How to reach me: odong2@ajou.ac.kr
-- 😎 My personal blog: https://blog.naver.com/o_dong2
+- 📫 How to reach me: minijihob@gmail.com
 
 <hr>
 
