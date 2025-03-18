@@ -4,7 +4,7 @@
 ### My Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=maetdori&theme=one_dark_pro&show_icons=true&count_private=true" height="180px">
+  <img src="https://github-readme-stats-seven-lovat-44.vercel.app/api?username=maetdori&theme=one_dark_pro&show_icons=true height="180px">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maetdori&theme=one_dark_pro&exclude_repo=Jagi,assignment&layout=compact" height="180px">
