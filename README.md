@@ -15,6 +15,14 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/divider.svg" alt="" />
 
+### 🕹️ Playground
+
+<p align="center">
+  <a href="https://maetdori.github.io/claudotchi/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-playground-dark.png?v=2" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-playground.png?v=2" width="100%" alt="클로도치 (claudotchi)" /></picture></a>
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/divider.svg" alt="" />
+
 ### 📊 GitHub Stats
 
 <picture>
