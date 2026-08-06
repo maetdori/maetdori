@@ -8,9 +8,9 @@
 ### ✍️ Technical Writing
 
 <p align="center">
-  <a href="https://maetdori.github.io/posts/game-dev-without-engine/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-game-dark.png?v=7" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-game.png?v=7" width="32%" alt="게임 엔진은 모르지만 게임 개발은 하고 싶어" /></picture></a>
-  <a href="https://maetdori.github.io/posts/heap-inspection/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-heap-dark.png?v=7" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-heap.png?v=7" width="32%" alt="Heap Inspection" /></picture></a>
-  <a href="https://maetdori.github.io/posts/scroll-and-paging/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-scroll-dark.png?v=7" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-scroll.png?v=7" width="32%" alt="스크롤과 페이징" /></picture></a>
+  <a href="https://maetdori.github.io/posts/game-dev-without-engine/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-game-dark.png?v=8" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-game.png?v=8" width="32%" alt="게임 엔진은 모르지만 게임 개발은 하고 싶어" /></picture></a>
+  <a href="https://maetdori.github.io/posts/heap-inspection/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-heap-dark.png?v=8" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-heap.png?v=8" width="32%" alt="Heap Inspection" /></picture></a>
+  <a href="https://maetdori.github.io/posts/scroll-and-paging/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-scroll-dark.png?v=8" /><img src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/card-scroll.png?v=8" width="32%" alt="스크롤과 페이징" /></picture></a>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/maetdori/maetdori/main/assets/divider.svg" alt="" />
